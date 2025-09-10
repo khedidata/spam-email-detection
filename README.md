@@ -12,6 +12,7 @@ This type of project is particularly interesting today because unwanted emails a
 - **For businesses**: protect employees and information systems, improve productivity by automatically filtering spam and reduce email security risks.  
 
 In summary, this project proposes a practical and automated solution to improve email management and communication security.
+
 ---
 
 ## Main steps of the project

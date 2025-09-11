@@ -42,10 +42,6 @@ In summary, this project proposes a practical and automated solution to improve 
    - Performances are measured with classic metrics (precision, recall, f1-score).  
    - A comparison table allows you to choose the most efficient model for the API.  
 
-### 6. **Backup and deployment**  
-   - The best model is saved in `pickle` format to be used in an API or a Streamlit application.  
-   - A simple user interface allows anyone to enter the content of an email and immediately get a prediction.
-
 ---
 
 ## Limitations and precautions
